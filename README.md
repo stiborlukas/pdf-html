@@ -4,12 +4,8 @@ Simple viewer for view your pdf file as flipable using html5 technology.
 
 --- 
 ### Using
-* Run the code with static web server such as http-server
-* Navigate under web folder to file viewer.html by url like `http://localhost/web/viewer.html?file=pdf.pdf&magazineMode=true`
-
-### Parameters
-* `file` is locate to pdf url
-* `magazineMode` option to enable / disable magazine mode default is false
+* Run using github pages
+* Avaiable at `https://LOGIN.github.io/REPO_NAME/web/`
 
 ### Screenshot
 ![screenshot.png](screenshot.png)
