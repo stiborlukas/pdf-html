@@ -7,6 +7,9 @@ Simple viewer for view your pdf file as flipable using html5 technology.
 * Run using github pages
 * Avaiable at `https://LOGIN.github.io/REPO_NAME/web/`
 
+### Instructions
+* .pdf has to always be in "1_PDF" named portfolio.pdf
+
 ### Screenshot
 ![screenshot.png](screenshot.png)
 
